@@ -48,7 +48,15 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "dppsSwitcher": true,
+    "spellingSwitch": true,
+    "site_lang": "undefined"
   },
   "pages": {
     "index.html": {
@@ -110,7 +118,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"97\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Кими Райкконен родился 17 октября 1979 года в Эспоо, Финляндия. С десяти лет участвовал в соревнованиях по картингу, где выступал достаточно успешно. С 1994 по 1997 годы участвовал в гонке на картах на единственной тогда трассе в России в Сосновом Бору (Гран-при ЛАЭС), где занимал второе место. В 1999 году стал вице-чемпионом картинговой серии Формула Супер А. В том же году он выиграл зимнюю серию британской Формулы Рено, победив в четырёх гонках. В 2000 году Райкконен доминировал в регулярном чемпионате Формулы Рено — он одержал 13 побед в 23 гонках.\n<br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"97\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Кими Райкконен родился 17 октября 1979 года в Эспоо, Финляндия. С десяти лет участвовал в соревнованиях по картингу, где выступал достаточно успешно. С 1994 по 1997 годы участвовал в гонке на картах на единственной тогда трассе в России в Сосновом Бору (Гран-при ЛАЭС), где занимал второе место. В 1999 году стал вице-чемпионом картинговой серии Формула Супер А. В том же году он выиграл зимнюю серию британской Формулы Рено, победив в четырёх гонках. В 2000 году Райкконен доминировал в регулярном чемпионате Формулы Рено — он одержал 13 побед в 23 гонках.\n<br></div>\n<center><a href=https://dopor.info?directlink=1&code_type=1&sid=919002 > \"Реклама\"</a></center><br>\n\n\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "s1Av654xQe",
           "_anchor": "content10-3",
           "_protectedParams": [],
